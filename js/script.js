@@ -38,5 +38,5 @@ sr.reveal('.about-text', { origin: "right" })
 sr.reveal('.top-btn', { delay: 700 })
 sr.reveal('.top-btn', { delay: 700 })
 
-sr.reveal('.sub-service,.about,.portfolio,.service,.cta,.contact', { delay: 1000, origin: 'bottom' })
+sr.reveal('.sub-service,.portfolio,.service,.cta,.contact', { delay: 1000, origin: 'bottom' })
 
